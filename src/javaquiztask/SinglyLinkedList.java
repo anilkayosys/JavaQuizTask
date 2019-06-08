@@ -25,7 +25,7 @@ public class SinglyLinkedList {
         /*  Perform list operations  */
         do
         {
-            System.out.println("\nSingly Linked List Operations\n");
+            System.out.println("\n Singly Linked List Operations\n");
             System.out.println("1. Please enter 1 to Append an element into the linkedlist");
             System.out.println("2. Please enter 2 to Remove the tail element from a linkedlist");
             System.out.println("3. Please enter 3 to Remove all element in the linkedlist that is great than a target value");
